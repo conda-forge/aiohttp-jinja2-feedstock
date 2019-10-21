@@ -1,5 +1,5 @@
 {% set name = "aiohttp-jinja2" %}
-{% set version = "1.1.2" %}
+{% set version = "1.2.0" %}
 
 package:
   name: "{{ name|lower }}"
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 4569ba360dbef2f6e2edfcb1eb34452e85498b7e17740baa5a4adc296ac3973c
+  sha256: 2dfe29cfd278d07cd0a851afb98471bc8ce2a830968443e40d67636f3c035d79
 
 build:
   number: 0
