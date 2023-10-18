@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aiohttp-jinja2-
 
 Home: https://github.com/aio-libs/aiohttp-jinja2/
 
-Package license: Apache Software
+Package license: Apache-2.0
 
 Summary: jinja2 template renderer for aiohttp.web (http server for asyncio)
 
